@@ -24,30 +24,45 @@ export const projects = [
     link: "https://obscure-reef-30952.herokuapp.com/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Professional ReadMe Generator",
+    subtitle: "Individual Project",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "Through the use of Node, I have developed an application for a developer to generator a README markdown file so that they can quickly create a professional README for their intended project.",
+    image: "./ReadMe_Gen.gif",
+    link: "https://github.com/mgmedrano/Professional_README_Generator",
+  },
+  {
+    title: "Online/Offline Budget Tracker",
+    subtitle: "Individual Project",
+    description:
+      "As an avid traveller, I want to be able to track my withdrawals and deposits with or without a data/internet connection so that my account balance is accurate when I am traveling.",
+    image: "./On_Off_Budget_1.png",
+    link: "https://young-plains-53960.herokuapp.com/",
+  },
+  {
+    title: "Code Refactor",
+    subtitle: "Individual Project",
+    description:
+      "Refactoring code was the beginning of my coding world. This taught me how to optimize a website for search engines additionally making it more accessible without changing what it does.",
+    image: "./codeRefactor.png",
+    link: "https://mgmedrano.github.io/CodeRefactor/",
   },
 ];
 
 export const testimonials = [
   {
-    title: "What Are We Having",
-    subtitle: "Collaborative Project",
-    description:
-      "With a team of Student Developers, we utilized 8 weeks of skills (HTML, CSS, JavaScript, and APIs to create an Application what randomizes food and drink based on preference.",
-    image: "./WAWH.Homepage.png",
-    link: "https://imoranmo.github.io/What-are-we-having/",
+    quote:
+      "",
+    image: "",
+    name: "LinkedIn",
+    company: "",
   },
   {
     quote:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    image: "",
+    name: "Downloadable PDF",
+    company: "",
   },
 ];
 
