@@ -35,11 +35,12 @@ export const projects = [
 
 export const testimonials = [
   {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    title: "What Are We Having",
+    subtitle: "Collaborative Project",
+    description:
+      "With a team of Student Developers, we utilized 8 weeks of skills (HTML, CSS, JavaScript, and APIs to create an Application what randomizes food and drink based on preference.",
+    image: "./WAWH.Homepage.png",
+    link: "https://imoranmo.github.io/What-are-we-having/",
   },
   {
     quote:
