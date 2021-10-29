@@ -49,18 +49,18 @@ export const projects = [
   },
 ];
 
-export const testimonials = [
+export const resumes = [
   {
     quote:
-      "",
-    image: "",
+      "Connect with me on LinkedIn",
+    link: "https://www.linkedin.com/in/mgmedrano/",
     name: "LinkedIn",
     company: "",
   },
   {
     quote:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "",
+    link: "",
     name: "Downloadable PDF",
     company: "",
   },
